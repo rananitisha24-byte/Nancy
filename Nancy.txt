@@ -1,0 +1,11 @@
+<!DOCTYPE html>
+<html>
+<head>
+  <title>My First Website</title>
+</head>
+<body>
+  <h1>Hello, world! 🌍</h1>
+  <p>Welcome to my very first website.</p>
+</body>
+</html>
+
